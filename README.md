@@ -1,5 +1,4 @@
 # Topology-Skyscraper
-Optimization algorithm for skyscraper structures using finite method
 #### Optimization algorithm for skyscraper structures using finite method (2020.09-2020.12)
   ![image](https://user-images.githubusercontent.com/82434538/235371589-51ded1cb-a91f-4673-88c1-570120cab7d5.png)
   ***Repository:*** [Topology Skyscraper](https://github.com/SZU-WenjieHuang/Topology-Skyscraper)\
